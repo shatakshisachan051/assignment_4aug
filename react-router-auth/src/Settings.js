@@ -1,0 +1,1 @@
+export const Settings = () => <h2>Welcom to Settings Page</h2>;
